@@ -1,0 +1,57 @@
+ايه الى مش هيتعمل
+1- اخر كارد(israa)
+2- الدارك مود
+3- لينكات الفوتر(yussef and tarek) xxxx
+4- البجيناشن بتاع المواعيد(yussef and tarek) xxxx
+5- الكنوتكت اس
+6- البرايفسي بوليسي
+7- الريدايركت(mohamed) xxxx
+https://localhost:3000/Dashboard (mohamed) xxxx
+https://localhost:3000/Appointments (mohamed) xxx
+https://localhost:3000/Appointments/* (mohamed) xxxx
+https://localhost:3000/AddSchedule (mohamed) xxx
+https://localhost:3000/Rating (mohamed) xxxx
+https://localhost:3000/AddOffer (mohamed) xxx
+8- remove filter from search (yussef) xxx
+9- pages height (yussef- tarek) xxxxx
+=================================
+3- appointments cards (yussef and tarek) xxxx 
+4- phone number (mohamed) xxxx
+5- slider offers (israa)xxxx
+6- offers (israa)xxxx
+=================================
+A-presentatian (hager)
+B-docs(all) screen shots (hager)
+=================================
+I- Demo (all)
+II- Presentation (all) meeting
+
+
+
+**presentation**
+1- project idea
+      ------------Tarek---------------
+      - project Desc
+      - problem statement slide 8
+      --------------Hager------------------
+      - F study slide 9
+      --------------Mahmoud----------------
+      -user roles slide 10
+      -------------yussef----------------
+      -life cycle slide 12
+      -------------mohamed----------------
+      -Project features slide 16
+      -------------israa----------------
+      -tools and tech
+
+
+**needed**
+1- cancel appointment (mohamed) regect btn
+2- style yussef
+3- Test israa
+4- demo ()
+5- docs hager
+
+
+1- guest
+   --users doctors rate

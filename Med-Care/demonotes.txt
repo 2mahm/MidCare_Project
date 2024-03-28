@@ -1,0 +1,58 @@
+https://127.0.0.1:3000/
+--------------------payment info--------------
+5123456789012346
+Test Account
+12/25
+123
+http://127.0.0.1:8000/admin/login/?next=/admin/
+admin
+admin@gmail.com
+admin
+python manange.py createsuperuser
+--to clear the database python manage.py flush
+------------------
+patient (firefox)
+Ali
+mohamed.pay@gmail.com
+Aa1234
+
+------------------------
+admin
+admin@gmail.com
+admin
+
+doctor (brave) blackmail
+mohamed
+mohamed.kk878@gmail.com
+Aa1234
+01098557840
+------------------
+
+
+
+----------firstPhase---------- tarek (mahoud)
+1-guest
+
+----------secondPhase---------- yussef
+2- doctor
+      signup activate
+      login
+
+----------thirdPhase----------israa
+3- doctor dashboard
+
+----------forthPhase---------- Tarek
+4- patient
+      login
+      book 
+      doc sign in accept
+----------fifthPhase---------- mohamed
+
+5- payment and rating
+
+
+----------admin---------- hager
+
+admin
+
+

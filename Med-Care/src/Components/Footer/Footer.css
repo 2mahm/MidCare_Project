@@ -1,0 +1,9 @@
+
+li p:hover{
+    cursor: pointer;
+}
+
+li a {
+    text-decoration: none;
+    color: white !important;
+}
